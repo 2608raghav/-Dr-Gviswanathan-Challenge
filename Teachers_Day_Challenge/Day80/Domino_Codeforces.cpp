@@ -10,7 +10,7 @@ Approach:
 3. If both sums are even:
       Answer = 0.
 4. If exactly one sum is odd:
-      Answer = -1.
+      Answer = -1
 5. If both sums are odd:
       Find whether there is at least one domino containing
       one odd number and one even number.
