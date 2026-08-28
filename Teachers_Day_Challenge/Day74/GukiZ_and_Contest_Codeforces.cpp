@@ -64,7 +64,7 @@ int main() {
         sorted.push_back(var);
     }
 
-    // Sort ratings in descending order
+    // Sort ratings in descending order.
     sort(sorted.begin(), sorted.end(), greater<>());
 
     // Assign ranks
