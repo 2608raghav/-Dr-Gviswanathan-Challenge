@@ -1,4 +1,4 @@
-/*
+ /*
 Problem: XXXXX
 Platform: Codeforces
 Problem Number: 1364A
@@ -61,7 +61,7 @@ int main() {
         // Entire array has a sum not divisible by x
         if (sum % x != 0) {
 
-            cout << n << '\n';
+            cout << n << endl;
         }
 
         // Every element is divisible by x
