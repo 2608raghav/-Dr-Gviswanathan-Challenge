@@ -68,6 +68,7 @@ public:
     int getMin() {
         return minSt.top();
     }
+
 };
 
 /**
