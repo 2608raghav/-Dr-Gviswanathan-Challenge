@@ -80,7 +80,7 @@ public:
                 continue;
             }
 
-            // Try jumping from i to every index j > i
+            
             for (int j = i + 1; j < n; j++) {
 
                 // Check whether the jump is allowed
