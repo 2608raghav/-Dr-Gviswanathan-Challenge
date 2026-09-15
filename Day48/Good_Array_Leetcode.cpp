@@ -6,7 +6,7 @@ Topic: Math, Number Theory
 
 Approach:
 1. Compute the Greatest Common Divisor (GCD) of all elements
-   in the array.
+   in the given array.
 2. Traverse the array:
    - Update the current GCD using gcd(currentGCD, nums[i]).
 3. After processing all elements:
