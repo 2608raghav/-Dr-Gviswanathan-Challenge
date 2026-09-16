@@ -56,12 +56,14 @@ private:
         return (a / gcd(a, b)) * b;
     }
 
-    long long gcd(long long a, long long b) {
+    long long GCD(long long a, long long b) {
         while(b) {
             long long t = a % b;
             a = b;
             b = t;
+           
         }
         return a;
+       
     }
 };
