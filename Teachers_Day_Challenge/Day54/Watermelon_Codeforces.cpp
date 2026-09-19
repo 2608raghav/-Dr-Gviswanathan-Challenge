@@ -17,7 +17,7 @@ Time Complexity: O(1)
 - Only a few arithmetic operations are performed.
 
 Space Complexity: O(1)
-- No extra space is used.
+- Constant space is used.
 
 */
 
