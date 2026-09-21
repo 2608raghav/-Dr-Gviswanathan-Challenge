@@ -27,7 +27,7 @@ using namespace std;
  
 class Solution {
 public:
-    ListNode* middleNode(ListNode* head) {
+    ListNode*  middleNode(ListNode* head) {
         ListNode* temp = head;
         int count =0;
         while(temp!=NULL){
@@ -42,6 +42,7 @@ public:
             temp = temp->next;
 
         }
+      
         return temp;
 
     }
